@@ -18,8 +18,8 @@
 <div class="login-box">
   <div class="login-logo">
     <!--<a>Cambiar</b>Contraseña</a>-->
-    <img src="<?php echo base_url();?>adminLte/img/club-astros-kwan-sin-fondo.jpg" class="avatar" alt="Avatar Image" width="300px" height="300px">
-      <h1>Cambiar Contraseña</h1>
+    <img src="" class="avatar" alt="Avatar Image" width="300px" height="300px">
+      <h1>Cambiar la Contraseña</h1>
   </div>
   <!-- /.login-logo -->
   <div class="card">
